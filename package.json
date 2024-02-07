@@ -1,17 +1,26 @@
 {
   "name": "vue-local-storage",
   "version": "1.0.0",
-  "description": "",
+  "description": "Reactive composable for localStorage",
   "main": "dist/useLocalStorage.js",
   "types": "dist/useLocalStorage.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "js",
+    "javascript",
+    "ts",
+    "typescript",
+    "composable",
+    "localStorage",
+    "reactive"
+  ],
   "author": "Alex Kozhukhar",
   "license": "ISC",
   "peerDependencies": {
-    "vue": "^3.4.15"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "typescript": "^5.3.3"
