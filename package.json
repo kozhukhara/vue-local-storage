@@ -1,0 +1,19 @@
+{
+  "name": "vue-local-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/useLocalStorage.js",
+  "types": "dist/useLocalStorage.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Alex Kozhukhar",
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
